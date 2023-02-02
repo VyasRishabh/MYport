@@ -10,7 +10,7 @@
     display: grid;
     grid-template-rows: .2fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-background-image: url("/images/b1489a55645295.5b463687dbf0a.jpg");
+background-image: url("\images\b1489a55645295.5b463687dbf0a.jpg");
 /* background-image: url("/images/5651990.webp"); */
 /* background-image: url("/images/portfolio4_Cover_banner1.jpg"); */
 background-attachment: fixed;
